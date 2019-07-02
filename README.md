@@ -100,6 +100,7 @@ https://laforge.readthedocs.io/en/latest/
 ### 🤖 Automation
 
 [![LGTM provides security analysis for PyPI releases.](https://img.shields.io/lgtm/alerts/github/vaneseltine/laforge.svg?style=for-the-badge)](https://lgtm.com/projects/g/vaneseltine/laforge/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvaneseltine%2Flaforge.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvaneseltine%2Flaforge?ref=badge_shield)
 
 [![libraries.io audits PyPI dependencies status.](https://img.shields.io/librariesio/release/pypi/laforge.svg?style=for-the-badge&label=libraries.io)](https://libraries.io/pypi/laforge)
 
@@ -129,3 +130,6 @@ https://laforge.readthedocs.io/en/latest/
 [![https://twitter.com/vaneseltine](https://img.shields.io/badge/twitter-@vaneseltine-blue.svg?style=for-the-badge&logo=twitter&logoColor=fff&color=1da1f2)](https://twitter.com/vaneseltine)
 
 [![https://stackoverflow.com/users/7846185/matt-vaneseltine](https://img.shields.io/badge/stack_overflow-matt_vaneseltine-888.svg?style=for-the-badge&logo=stack-overflow&logoColor=fff&color=f48024)](https://stackoverflow.com/users/7846185/matt-vaneseltine)
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvaneseltine%2Flaforge.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvaneseltine%2Flaforge?ref=badge_large)
